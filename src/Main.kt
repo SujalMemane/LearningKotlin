@@ -16,5 +16,10 @@ fun main() {
 
 //    HelloWorld()
 
-    variablesBasics()
+//    variablesBasics()
+
+    numberTypes()
+    charType()
+    booleanType()
+    stringType()
 }
