@@ -23,5 +23,7 @@ fun main() {
 //    booleanType()
 //    stringType()
 
-    typeConversion()
+//    typeConversion()
+
+    nullSafetyBasics()
 }
