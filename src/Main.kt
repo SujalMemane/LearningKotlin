@@ -18,8 +18,10 @@ fun main() {
 
 //    variablesBasics()
 
-    numberTypes()
-    charType()
-    booleanType()
-    stringType()
+//    numberTypes()
+//    charType()
+//    booleanType()
+//    stringType()
+
+    typeConversion()
 }
